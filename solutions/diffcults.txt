@@ -1,0 +1,9 @@
+2D array rotation
+bfs
+coinchange
+chess_knight
+find_sub_max
+kth_min using quick select
+next_perfect_square
+quick_sort
+setbits
